@@ -1,0 +1,12 @@
+{
+	"name": "Hemant",
+	"email": "hemant@gmail.com",
+	"age": 25,
+	"isDeveloper": true,
+	"userAddress": {
+		"street": "Main Street",
+		"houseNumber": "42A",
+		"city": "Fairfax",
+		"country": "United States"
+	}
+}
